@@ -31,23 +31,6 @@ A simple calculator application built using **HTML**, **CSS**, and **JavaScript*
 
 *![image](https://github.com/user-attachments/assets/869cd042-3c2c-4f1c-ad20-94d62e9c5cbc)*
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a Pull Request.
 
 
