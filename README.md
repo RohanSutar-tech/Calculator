@@ -29,7 +29,7 @@ A simple calculator application built using **HTML**, **CSS**, and **JavaScript*
 
 ## Screenshots
 
-*![image](https://github.com/user-attachments/assets/6ebfd8af-5568-46a4-b532-798f8920dc75)*
+*![image](https://github.com/user-attachments/assets/869cd042-3c2c-4f1c-ad20-94d62e9c5cbc)*
 
 ## Contributing
 
