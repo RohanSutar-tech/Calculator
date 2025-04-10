@@ -1,7 +1,7 @@
 
-# Calculator
+# Calculator Clone of My Smartphone (IQZ6)
 
-A simple calculator application built using **HTML**, **CSS**, and **JavaScript**.
+A simple calculator application built using **HTML**, **CSS**, and **JavaScript** based on **Funtouch UI(Noarch)**.
 
 ## Features
 
